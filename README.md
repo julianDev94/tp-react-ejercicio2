@@ -1,7 +1,12 @@
-# Trabajo Practico react - Ejercicio 2
+# Trabajo Práctico react
 
-Desarrollo ejercicio 2 del trabajo practico de react
+Desarrollo del ejercicio 2 del trabajo práctico de react
 
 ## Librerias
 
+- (https://react-bootstrap.github.io)
+- [Boostrap v5.3.2](https://getbootstrap.com/)
 
+## Alumno
+
+- Cristian Julian Aballay 🖥💻
